@@ -2,5 +2,4 @@
 catetoa=int(input("Valor do primeiro cateto: "))
 catetob=int(input("Valor do segundo cateto: "))
 hipotenusa=int(catetoa*catetob)/2
-
-print("O valor da hipotenusa desse triângulo é ",hipotenusa )
+print("A hipotenusa desse triângulo é ",hipotenusa )
