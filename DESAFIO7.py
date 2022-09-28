@@ -16,4 +16,4 @@ elif 30.0<=imc<40.0:
     print("O Seu IMC está ",imc, "e está na faixa da Obesidade.")
 
 else:
-    print("O Seu IMC está ",imc, "e está na faixa da Obesidade Grave.")
+    print("O Seu IMC está ",imc, "atenção, você está na faixa da Obesidade Grave.")
