@@ -1,20 +1,20 @@
 #Faça um programa que leia 3 numeros inteiros e imprima o maior e o menor deles.
 
-def maior(numero1,numero2,numero3):
-    max = numero1
+def maior(num1,num2,num3):
+    max = num1
 
-    if numero2>max:
-        max=numero2
-    if numero3>max:
-        max=numero3
+    if num2>max:
+        max=num2
+    if num3>max:
+        max=num3
     return max
 
-def menor(numero1,numero2,numero3):
-    min=numero1
-    if numero2<min:
-        min=numero2
-    if numero3<min:
-        min=numero3   
+def menor(num1,num2,num3):
+    min=num1
+    if num2<min:
+        min=num2
+    if num3<min:
+        min=num3   
     return min
 
 numero1= int(input("digite o primeiro numero: "))
