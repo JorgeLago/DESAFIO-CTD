@@ -1,4 +1,2 @@
-#Faça um programa que imprima o fatorial de um número digital pelo usuário.
-#Você pode fazer a versão com laço de repetição e/ou com resultado. considere que: n! = n*(n-1)*(n-2)*.....*1
-#Exemplo:   5! = 5*4*3*2*1     
-# 5! = 120
+#Pegue a lita a = [1,1,2,3,5,8,13,21,34,55,89]. imprima todos os elementos da lista que são menores que 5.
+lista=[1,1,2,3,5,8,13,21,34,55,89]
