@@ -9,4 +9,3 @@ dinheiro = float(input(' Quanto de dinheiro você vai colocar?: R$'))
 qntd_combustivel = float(dinheiro/5)
 km_rodados = qntd_combustivel*20
 print('Com ',dinheiro , 'você irá comprar um total de ',qntd_combustivel , 'litros de combustível e rodará um total de ',km_rodados , 'kms.')
-
