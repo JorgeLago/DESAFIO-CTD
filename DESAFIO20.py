@@ -12,3 +12,7 @@ while alunos<quantidade:
 #método do random para misturar elementos.
 random.shuffle(nomes)
 print(nomes)
+
+#Outro método de misturar elementos.
+embaralhados=random.sample(nomes, len(nomes))
+print(embaralhados)
