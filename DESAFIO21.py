@@ -7,6 +7,6 @@
 nome_completo = str(input('Qual seu nome completo? >'))
 print(nome_completo.upper())
 print(nome_completo.lower())
-print('possui ', len(nome_completo.strip()), 'espaços, desconsiderando espaços.')
+print('possui ', len(nome_completo.replace(' ','')), 'espaços, desconsiderando espaços.')
 nome_completo=(nome_completo.split(' '))
 print('O seu primeiro nome possui', len(nome_completo[0]), 'letras.')
