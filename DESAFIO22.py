@@ -3,7 +3,7 @@
 #b) nome com todas minúsculas:
 #c)quantas letras ao todo ( sem considerar espaços):
 #d)quantas letras tem o primeiro nome:
-
+# FEEEIITOOO!!
 
 
 
