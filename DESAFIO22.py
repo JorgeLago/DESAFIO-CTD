@@ -1,12 +1,3 @@
-#Faça um programa que leia o nome completo de uma pessoa e mostre:
-#a) nome com todas as letras maiusculas:
-#b) nome com todas minúsculas:
-#c)quantas letras ao todo ( sem considerar espaços):
-#d)quantas letras tem o primeiro nome:
-# FEEEIITOOO!!
-
-
-
 #Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados:
 #ex.:
 #numero: 1834
@@ -15,20 +6,32 @@
 #centena:8
 #milhar:1
 
+numero=int(input('Digite o número: '))
 
-#Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com a palavra "santo".
-#próximo
-
-#Crie uma progama que leia o nome de uma pessoa, e diga se tem "silva" no nome.
-#próximo
-
-#Faça um programa que leia uma frase pelo teclado e mostre:
-#a) quantas vezes aparece a letra  "a".
-#b)em que posição ela aparece a primeira vez.
-#c) em que posição ela aparece a ultima vez.
-
-
-#Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o ultimo nome separadamente.
-#ex.: Ana Maria de Souza
-#primeiro=Ana
-#último=Souza
+if numero<10:
+    numero=str(numero)
+    print('Unidade: ',numero[0])
+    print('Dezena 0')
+    print('Centena 0')
+    print('Milhar 0')
+elif numero<100:
+    numero=str(numero)
+    print('Unidade: ',numero[1])
+    print('Dezena ', numero[0])
+    print('Centena 0')
+    print('Milhar 0')
+elif numero<1000:
+    numero=str(numero)
+    print('Unidade: ',numero[2])
+    print('Dezena ', numero[1])
+    print('Centena ', numero[0])
+    print('Milhar 0')
+elif numero<10000:
+    numero=str(numero)
+    print('Unidade: ',numero[3])
+    print('Dezena ', numero[2])
+    print('Centena ', numero[1])
+    print('Milhar ', numero[0])
+    
+else:
+    print('Precisa ser entre 0 e 9999.') 
