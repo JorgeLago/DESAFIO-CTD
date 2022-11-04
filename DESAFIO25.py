@@ -6,5 +6,5 @@ frase=str(input('Digite uma frase: ')).upper().strip()
 print('A letra A aparece {} vezes.'.format(frase.count('A')))
 
 print('A primeira vez na posição {}'.format(frase.find('A')))
-
+#método Rfind -> retorna posição de trás para frente.
 print('A última vez na posição {}'.format(frase.rfind('A')))
