@@ -2,5 +2,4 @@
 
 valor = float(input("digite o valor do produto vendido. R$"))
 pago = float(input("digite o valor que foi pago. R$"))
-troco = round(float(pago - valor))
-print('o troco será de R$',troco," .")
+print('o troco será de R${} '.format(pago - valor))
