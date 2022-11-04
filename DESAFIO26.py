@@ -3,5 +3,5 @@
 #primeiro=Ana
 #último=Souza
 frase=str(input('Digite seu nome completo: ')).title().split()
-print('Seu primeiro nome é {}'.format(frase[0]))
-print('Seu ultimo nome é {}'.format(frase[-1]))
+print('Seu Primeiro nome é {}'.format(frase[0]))
+print('Seu Ultimo nome é {}'.format(frase[-1]))
