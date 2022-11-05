@@ -2,7 +2,6 @@
 import sys
 import math
 
-
 num = (input('digite um numero: '))
 lista=[]
 for i in num:

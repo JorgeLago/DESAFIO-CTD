@@ -5,7 +5,6 @@
 #d) A raiz quadrada da soma dos quadrados,
 #e) O seno da diferença do primeiro número pelo segundo,
 
-
 primeiro_numero=int(input("Digite o primeiro número: "))
 segundo_numero=int(input("Digite o segundo número: "))
 

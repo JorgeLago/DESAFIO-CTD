@@ -7,7 +7,7 @@ nota3=float(input("digite a nota terceiro bimestre: "))
 nota4=float(input("digite a nota quarto bimestre: "))
 
 media_final = (Nota1+nota2+nota3+nota4)/4
-if media_final>=media_para_aprovacao:
+if (Nota1+nota2+nota3+nota4)/4>=media_para_aprovacao:
     print("O Aluno está aprovado com média ",media_final)
 else:
     print("O Aluno está reprovado com média ",media_final)
