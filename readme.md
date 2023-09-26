@@ -3,6 +3,7 @@
 ```
 Resolver pequenos desafios todo dia, para praticar o código e resolução de problemas!!
 Adicionando Desafios concluídos todo dia.
+fins de estudo
 Criando fluência da linguagem.
 desafios diarios
 
