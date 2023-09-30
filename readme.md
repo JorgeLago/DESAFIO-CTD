@@ -5,8 +5,6 @@ Resolver pequenos desafios todo dia, para praticar o código e resolução de pr
 Adicionando Desafios concluídos todo dia.
 .
 .
-commitando
-.
 .
 Criando fluência da linguagem.
 desafios diarios
