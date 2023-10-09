@@ -7,7 +7,6 @@ Adicionando Desafios concluídos todo dia.
 .
 .
 .
-.
 Criando fluência da linguagem.
 desafios diarios
 
