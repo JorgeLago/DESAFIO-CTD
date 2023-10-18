@@ -8,7 +8,7 @@ níveis aumentando diariamente
 .
 .
 .
-Criando fluência da linguagem.
+buscando a fluência da linguagem.
 desafios diarios
 
 ```
