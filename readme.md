@@ -3,7 +3,8 @@
 ```
 Resolver pequenos desafios todo dia, para praticar o código e resolução de problemas!!
 Adicionando Desafios concluídos todo dia.
-níveis aumentando diariamente 
+níveis aumentando diariamente
+commit de hoje
 .
 .
 .
