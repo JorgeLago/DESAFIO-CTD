@@ -6,7 +6,5 @@ Adicionando Desafios concluídos todo dia.
 níveis aumentando diariamente
 .
 .
-.
-.
 buscando a fluência da linguagem.
 desafios diarios.
